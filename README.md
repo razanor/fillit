@@ -26,5 +26,5 @@ EE..FF.
 GGGH..I
 </pre>
 
-Here each letter represent each tetriminos. In this particular case from A to E. 
+Here each letter represent each tetriminos. In this particular case from A to G. 
 Maximum it can be 26 tetreminos pieces.
